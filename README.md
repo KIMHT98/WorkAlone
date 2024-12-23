@@ -26,8 +26,8 @@
 ### 🔧 BackEnd
 
 <p>
-  <img src="https://img.shields.io/badge/intellij-2C2255.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <br> 
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   </p>
   <div align="right">
   Openjdk:17-JDK-alpine<br>
@@ -41,22 +41,12 @@ Spring Boot:3.3.2
 
 <p>
   <img src="https://img.shields.io/badge/android%20studio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  
 <div align="right">
 Android Studio:2024.01<br>
 Android API:35<br>
 </div>
-</p>
-
----
-
-### 🗄️ DataBase
-
-<p>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <div align="right">
-  MySQL:8.0
-  
-  </div>
 </p>
 
 ---
